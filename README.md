@@ -12,10 +12,10 @@ npm install
 npm run serve
 ```
 
-### Start Unit test locallly
+### Start Unit test 
 
 ```
-npm run test
+npm run test -- --collectCoverage
 ```
 
 ### Project (Route URLs)
@@ -55,21 +55,21 @@ http://localhost:8080/#/404
 - Plug in any state management tool (vuex)
 
 #### Styling and HTML
-- `Animation added`
-- `Use custom font`
-- `sass methodology`
-- `Vuetify library to make it more seo friendly`
+- Animation added
+- Use custom font
+- sass methodology
+- Vuetify library to make it more seo friendly
 
 ### Compiles and minifies for production
 
-````npm run build
-
+```
+npm run build
 ```
 
 ### Lints and fixes files
 
-```npm run eslint -- --fix
-
+```
+npm run eslint -- --fix
 ```
 
 ### Customize configuration
