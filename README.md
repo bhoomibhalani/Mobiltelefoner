@@ -32,8 +32,9 @@ http://localhost:8080/#/phones/apple
 
 http://localhost:8080/#/404
 - This route will redirect to 404 Page
+````
 
-```### Features
+### Features
 
 - Sorting with name [ASC/ DESC]
 - Vue-router
@@ -44,14 +45,16 @@ http://localhost:8080/#/404
 - sass
 - Unit test
 
-### Accomplishment Task
+## Accomplishment Task
 
-- #### JS
-- ` Add button which sorts phones or phone brands alphabetically`
-- `Add filtering for phones or phone brands by any parameters (displayName, price etc.). On page load use url query parameters to get filters (?brand=Doro) (brand detail route)`
-- `Add favorite button which save phone or phone brand in memory. Saved selections should be marked even after website reload`
-- `Plug in any state management tool (vuex)`
-- #### Styling and HTML
+#### JS
+- Add button which sorts phones or phone brands alphabetically
+- Add filtering for phones or phone brands by any parameters (displayName, price etc.). On page load use url query parameters to get filters 
+   (?brand=Doro) (brand detail route)`
+- Add favorite button which save phone or phone brand in memory. Saved selections should be marked even after website reload
+- Plug in any state management tool (vuex)
+
+#### Styling and HTML
 - `Animation added`
 - `Use custom font`
 - `sass methodology`
