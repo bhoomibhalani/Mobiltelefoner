@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MobileBrand.vue renders snapshots 1`] = `
+<v-card-stub loaderheight="4" tag="div">
+  <v-btn-stub color="white" tag="button" activeclass="" icon="true" type="button" class="wish-list">
+    <v-icon-stub color="#b71c1c">M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z</v-icon-stub>
+  </v-btn-stub>
+  <v-img-stub height="300" alt="Apple" contain="true" options="[object Object]" position="center center" src="http://www.fakeimg.com" transition="fade-transition" title="Apple"></v-img-stub>
+  <v-card-text-stub>
+    <div class="font-weight-bold ml-8 mb-2">
+      <h3>Apple</h3>
+    </div>
+  </v-card-text-stub>
+</v-card-stub>
+`;
+
+exports[`MobileBrand.vue renders snapshots when wishlist feature is on 1`] = `
+<v-card-stub loaderheight="4" tag="div">
+  <v-btn-stub color="white" tag="button" activeclass="" icon="true" type="button" class="wish-list">
+    <v-icon-stub color="#b71c1c">M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z</v-icon-stub>
+  </v-btn-stub>
+  <v-img-stub height="300" alt="Apple" contain="true" options="[object Object]" position="center center" src="http://www.fakeimg.com" transition="fade-transition" title="Apple"></v-img-stub>
+  <v-card-text-stub>
+    <div class="font-weight-bold ml-8 mb-2">
+      <h3>Apple</h3>
+    </div>
+  </v-card-text-stub>
+</v-card-stub>
+`;

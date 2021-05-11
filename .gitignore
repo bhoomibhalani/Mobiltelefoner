@@ -1,0 +1,24 @@
+/storage/*.key
+/.idea
+npm-debug.log
+.env
+.env.local
+
+public/**/*
+!public/index.html
+.npmrc
+dist
+
+node_modules/
+.vscode
+src/.idea
+
+.DS_store
+*.log
+coverage/
+.npmrc
+
+
+# Parcel build directories
+.cache
+.build
